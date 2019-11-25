@@ -1,0 +1,1 @@
+sudo systemctl status xon-export | /s\w{10}y/gim
